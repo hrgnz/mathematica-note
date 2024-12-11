@@ -309,3 +309,4 @@ TSWLatexianTemp*
 .DS_Store
 Thumbs.db
 *.sty
+*.tex
