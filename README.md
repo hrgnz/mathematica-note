@@ -1,0 +1,2 @@
+# mathematica-note
+mathematicaでいろいろな問題を解いたときのノート
